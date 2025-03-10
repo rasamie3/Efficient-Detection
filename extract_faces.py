@@ -8,9 +8,6 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.applications.efficientnet  import preprocess_input
 
 IMG_EXTENSION = {'.jpg', '.jpeg', '.png'}
-import os
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2' 
-
 
 class FaceProcessor(): 
     LANDMARKS_MODEL_PATH = "./shape_predictor_68_face_landmarks.dat"

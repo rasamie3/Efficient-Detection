@@ -1,4 +1,4 @@
-## Efficient-Detection: Transfer Learning-Based Deepfake Video Detection for Low-Resource Systems
+## Efficient-Detection: Transfer Learning-Based Deepfake Video Detection
 
 Efficient-Detection is a deepfake video detection system designed to utilize transfer learning with EfficientNet models, making it suitable for deployment on systems with limited computational resources. By leveraging pre-trained EfficientNet models, Efficient-Detection achieves moderate accuracy in detecting manipulated video content while keeping computational requirements low.
 

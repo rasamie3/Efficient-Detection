@@ -1,0 +1,6 @@
+numpy
+opencv-python
+dlib
+tensorflow
+scikit-learn
+tensorflow-gpu
